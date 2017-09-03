@@ -1,0 +1,12 @@
+name: syntax
+description: simple general purpose syntax library.
+author: "Montana Mendy <montana@getprowl.com>"
+homepage: http://www.montanamendy.com
+description:  Syntax library includes that includes lexer 
+version: 0.2.0
+
+dependencies:
+  polymer: any
+
+dev_dependencies:
+  unittest: any
